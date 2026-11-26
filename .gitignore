@@ -1,0 +1,16 @@
+# Build files
+bin/
+obj/
+.vs/
+
+# Publish
+publish/
+
+# Private configuration
+appsettings.json
+appsettings.Development.json
+
+# User-specific files
+*.user
+*.suo
+app.db
